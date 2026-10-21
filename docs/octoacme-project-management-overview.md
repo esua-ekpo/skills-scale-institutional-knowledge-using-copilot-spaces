@@ -20,6 +20,16 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Expanded Role Accountability
+Project success depends on clear ownership beyond the core project roles. In practice, cross-functional teams often include additional responsibilities that reduce gaps in execution and escalation.
+
+- Technical Lead: owns technical design direction, architecture alignment, and implementation trade-offs.
+- QA / Test Lead: defines the quality strategy, validates acceptance criteria, and signs off release readiness.
+- Security / Compliance Partner: reviews controls, privacy, and risk exposure before launch.
+- Customer Success / Stakeholder Liaison: translates customer feedback and stakeholder concerns into action.
+
+These roles should be identified early and mapped to the same project board, risk register, and communication cadence so accountability is visible to everyone.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
@@ -44,3 +54,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Review role ownership at kickoff and during project planning to confirm who is accountable for technical, QA, security, and stakeholder concerns.
+
